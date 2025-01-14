@@ -7,6 +7,6 @@ Lua extension for VLC that simulates watching television. Shows will be shuffled
 3. Open VLC.
 4. Click on View > Watch TV
 
-#NOTE
+# NOTE
 - If you want to change the number of commercials that play between episodes, change the parameters of "num_commercials" at line 122. I settled on 5-8 as that is the average number of commercials that plays between shows in USA.
 - This project was created for myself and I am satisfied with where it is, I uploaded it on the off-chance someone may be looking for something similar. Chances are I will not update it, feel free to make and upload any changes.
