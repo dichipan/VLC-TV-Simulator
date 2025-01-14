@@ -3,7 +3,7 @@ Lua extension for VLC that simulates watching television. Shows will be shuffled
 
 # INSTALL
 1. In the file, set the directory for "shows_directory" and "commercials_directory" to their respective locations.
-2. Place the file within the "...VLC\lua\extensions" directory.
+2. Place the file within the "...\VLC\lua\extensions\" directory.
 3. Open VLC.
 4. Click on View > Watch TV.
 
